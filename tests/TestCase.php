@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace Tests;
 
-use Illuminate\Database\Schema\Blueprint;
 use BombenProdukt\PackagePowerPack\TestBench\AbstractPackageTestCase;
+use Illuminate\Database\Schema\Blueprint;
 use Tests\Fixtures\HasFruitAsRelatedContent;
 use Tests\Fixtures\Lime;
 use Tests\Fixtures\Strawberry;

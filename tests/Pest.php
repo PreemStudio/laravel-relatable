@@ -2,8 +2,8 @@
 
 declare(strict_types=1);
 
-use Illuminate\Database\Eloquent\Model;
 use BombenProdukt\Relatable\Models\Relatable;
+use Illuminate\Database\Eloquent\Model;
 
 /*
 |--------------------------------------------------------------------------

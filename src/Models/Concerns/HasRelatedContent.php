@@ -4,10 +4,10 @@ declare(strict_types=1);
 
 namespace BombenProdukt\Relatable\Models\Concerns;
 
+use BombenProdukt\Relatable\Models\Relatable;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\MorphMany;
 use Illuminate\Support\Collection;
-use BombenProdukt\Relatable\Models\Relatable;
 
 /**
  * @mixin Model
