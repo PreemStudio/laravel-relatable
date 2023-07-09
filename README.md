@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/BombenProdukt/laravel-relatable/actions">
+    <a href="https://github.com/faustbrian/laravel-relatable/actions">
         <img src="https://badge.sh/github/check-runs/BombenProdukt/laravel-relatable" alt="Checks" />
     </a>
     <a href="https://packagist.org/packages/bombenprodukt/laravel-relatable">
@@ -21,7 +21,7 @@
 
 ## About Laravel Relatable
 
-This project was created by, and is maintained by [BombenProdukt](https://github.com/BombenProdukt), and is a package to manage related content with Laravel Eloquent. Be sure to browse through the [changelog](CHANGELOG.md), [code of conduct](.github/CODE_OF_CONDUCT.md), [contribution guidelines](.github/CONTRIBUTING.md), [license](LICENSE), and [security policy](.github/SECURITY.md).
+This project was created by, and is maintained by [Brian Faust](https://github.com/faustbrian), and is a package to manage related content with Laravel Eloquent. Be sure to browse through the [changelog](CHANGELOG.md), [code of conduct](.github/CODE_OF_CONDUCT.md), [contribution guidelines](.github/CONTRIBUTING.md), [license](LICENSE), and [security policy](.github/SECURITY.md).
 
 > **Note**
 > This package is based on [spatie/laravel-relatable](https://github.com/spatie/laravel-relatable) by [Spatie](https://github.com/sponsors/spatie).
